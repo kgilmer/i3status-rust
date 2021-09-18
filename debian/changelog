@@ -1,0 +1,5 @@
+i3status-rust (0.20.4-1) focal; urgency=medium
+
+  * Add generated control file from cargo-deb
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sat, 18 Sep 2021 10:11:09 -0700
